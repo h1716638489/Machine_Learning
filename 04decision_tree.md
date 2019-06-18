@@ -1,5 +1,18 @@
 # 决策树
 
+
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
+
 由于决策树的内容我之前有做过一个比较详细的[PPT分享](https://github.com/familyld/Machine_Learning/blob/master/resource/Decision%20tree.pdf)，所以这一章的笔记暂时不打算花太大精力，主要是理清最重要的定义和思路，更详细的之后有时间会考虑补上。
 
 这一章的内容大致如下：
